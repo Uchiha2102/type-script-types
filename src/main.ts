@@ -12,3 +12,5 @@ console.log(sum);
 const numbers2: number[] = [5, 10, 20, 30, 50]
 const numberGreaterThanTen: boolean = numbers2.some(num => num > 10);
 console.log(numberGreaterThanTen);
+
+
